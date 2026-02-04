@@ -72,7 +72,7 @@ ParkSecure enables:
 ### Backend
 - **Java – Spring Boot**
 - RESTful APIs
-- Spring Security *(planned)*
+- Spring Security 
 
 ### Database
 - MySQL
