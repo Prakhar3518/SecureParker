@@ -1,0 +1,133 @@
+# 🅿️ ParkSecure – Community Parking Marketplace (WIP)
+
+ParkSecure is a **community-driven parking platform** where individuals can list their unused parking spaces (home driveways, private plots, society parking) and drivers can discover and book them for short or long durations.
+
+> 🚧 **Status:** Work in Progress (Active Development)
+
+---
+
+## 🚀 Problem Statement
+
+Urban areas face severe parking shortages, leading to:
+- Traffic congestion
+- Illegal parking & fines
+- Time and fuel wastage
+
+At the same time, many private parking spaces remain unused for long hours.  
+**ParkSecure bridges this gap** by connecting space owners with drivers in need.
+
+---
+
+## 💡 Solution Overview
+
+ParkSecure enables:
+- 🧍 Space owners to **earn income** by listing unused parking spots
+- 🚗 Drivers to **find affordable, nearby parking**
+- 🌆 Cities to reduce congestion and illegal parking
+
+---
+
+## ✨ Key Features (Planned)
+
+### 👤 User Management
+- User authentication (Owner / Driver roles)
+- Secure login & registration
+- Profile management
+
+### 🅿️ Parking Space Listing
+- Add parking space with:
+  - Location (map-based)
+  - Available time slots
+  - Price (hourly / daily / monthly)
+  - Space type (car / bike)
+- Edit & delete listings
+
+### 🔍 Parking Discovery
+- Search nearby parking spaces
+- Filter by price, distance, availability
+- Map-based parking visualization
+
+### 📅 Booking System
+- Real-time slot booking
+- Time-based reservations
+- Booking history for users
+
+### 💳 Payments (Planned)
+- UPI / digital payment integration
+- Transaction tracking
+- Platform service fee model
+
+### ⭐ Reviews & Ratings (Planned)
+- Driver feedback for parking spaces
+- Owner credibility score
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+- HTML, CSS, JavaScript *(initial MVP)*
+- React *(planned upgrade)*
+
+### Backend
+- **Java – Spring Boot**
+- RESTful APIs
+- Spring Security *(planned)*
+
+### Database
+- MySQL
+
+### APIs & Tools
+- Google Maps API (location & distance)
+- JWT Authentication *(planned)*
+
+---
+
+## 📂 Project Structure (Backend – Spring Boot)
+
+parksecure-backend/
+├── controller/
+├── service/
+├── repository/
+├── model/
+├── dto/
+├── config/
+└── ParkSecureApplication.java
+
+
+---
+
+## 🧪 Development Status
+
+- [x] Project idea finalized
+- [x] Tech stack decided
+- [ ] Backend APIs (in progress)
+- [ ] Database schema design
+- [ ] Frontend integration
+- [ ] Payment gateway integration
+
+---
+
+## 📈 Future Enhancements
+
+- AI-based parking price suggestions
+- Monthly parking subscriptions
+- Admin dashboard
+- Mobile app (Android)
+
+---
+
+## 👨‍💻 Author
+
+**Prakhar Chaudhary**  
+B.Tech CSE | Backend & Web Development  
+Spring Boot • MySQL • DSA
+
+---
+
+## 📌 Note
+
+This project is currently under active development.  
+Features, architecture, and implementation details may evolve over time.
+
+Contributions and suggestions are welcome.
